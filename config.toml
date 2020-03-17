@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://ldc84.github.io/hugo-learn/"
 languageCode = "ko-KR"
 title = "CloudZ Menual Site"
 DefaultContentLanguage = "kr"
