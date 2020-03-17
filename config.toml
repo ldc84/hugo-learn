@@ -6,7 +6,7 @@ DefaultContentLanguage = "kr"
 theme = "hugo-theme-learn"
 
 [params]
-  editURL = "https://github.com"
+#  editURL = "https://github.com/ldc84/hugo-learn/"
   description = "Clound Z Menual Site"
   author = "CloudZ LDC"
   showVisitedLinks = true
