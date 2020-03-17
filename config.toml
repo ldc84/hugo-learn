@@ -1,0 +1,33 @@
+baseURL = "/"
+languageCode = "ko-KR"
+title = "CloudZ Menual Site"
+DefaultContentLanguage = "kr"
+theme = "hugo-theme-learn"
+
+[params]
+  editURL = "https://github.com"
+  description = "Clound Z Menual Site"
+  author = "CloudZ LDC"
+  showVisitedLinks = true
+  disableBreadcrumb = false
+  disableNextPrev = false
+
+[outputs]
+home = [ "HTML", "RSS", "JSON"]
+
+# [Languages]
+# [Languages.kr]
+# title = "Documentation for Hugo Learn Theme"
+# weight = 1
+# languageName = "Korean"
+# 
+# [[Languages.kr.menu.shortcuts]]
+# name = "<i class='fab fa-fw fa-github'></i> GitHub repo"
+# identifier = "ds"
+# url = "https://github.com/matcornic/hugo-theme-learn"
+# weight = 10
+# 
+# [[Languages.kr.menu.shortcuts]]
+# name = "<i class='fas fa-fw fa-camera'></i> Showcases"
+# url = "showcase"
+# weight = 11
