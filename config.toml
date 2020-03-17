@@ -4,6 +4,7 @@ languageCode = "ko-KR"
 title = "CloudZ Menual Site"
 DefaultContentLanguage = "kr"
 theme = "hugo-theme-learn"
+buildDrafts = true
 
 [params]
 #  editURL = "https://github.com/ldc84/hugo-learn/"

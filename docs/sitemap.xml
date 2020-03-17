@@ -2,4 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
+  <url>
+    <loc>https://ldc84.github.io/hugo-learn/cloudz/</loc>
+    <lastmod>2020-03-16T17:25:46+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ldc84.github.io/hugo-learn/post/</loc>
+    <lastmod>2020-03-16T17:24:49+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ldc84.github.io/hugo-learn/</loc>
+    <lastmod>2020-03-16T16:29:15+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ldc84.github.io/hugo-learn/post/test/</loc>
+    <lastmod>2020-03-16T16:29:15+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ldc84.github.io/hugo-learn/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ldc84.github.io/hugo-learn/tags/</loc>
+  </url>
+  
 </urlset>
