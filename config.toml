@@ -7,6 +7,7 @@ theme = "hugo-theme-learn"
 buildDrafts = true
 buildExpired = true
 buildFuture = true
+tags = ["documentation", "grav", "learn", "doc", "search"]
 
 [params]
 #  editURL = "https://github.com/ldc84/hugo-learn/"
