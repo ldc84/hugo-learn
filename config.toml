@@ -1,7 +1,7 @@
 publishDir = "docs"
 baseURL = "https://ldc84.github.io/hugo-learn/"
 languageCode = "ko-KR"
-title = "CloudZ Menual Site"
+title = "CloudZ Manual Site"
 DefaultContentLanguage = "kr"
 theme = "hugo-theme-learn"
 buildDrafts = true
@@ -11,7 +11,7 @@ tags = ["documentation", "grav", "learn", "doc", "search"]
 
 [params]
 #  editURL = "https://github.com/ldc84/hugo-learn/"
-  description = "Clound Z Menual Site"
+  description = "Clound Z Manual Site"
   author = "CloudZ LDC"
   showVisitedLinks = true
   disableBreadcrumb = false
